@@ -1,0 +1,24 @@
+*{
+	box-sizing:border-box;
+}
+
+.name_section{
+	position:relative;
+	background-color:#4aaaa5;
+	color:#ffffff;
+}
+
+.menu_section{
+	position:fixed
+	background-color:#ffffff;
+
+
+}
+
+#fixed {
+	position:fixed;
+}
+
+#relative {
+	position:relative;
+}
